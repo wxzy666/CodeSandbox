@@ -1,0 +1,16 @@
+{
+  "name": "anichart-2x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesandbox-app/static-template.git"
+  },
+  "keywords": [],
+  "author": "Jannchie <jannchie@gmail.com>",
+  "license": "MIT"
+}
